@@ -1,5 +1,5 @@
-<p class="text-center">
-<img src="https://media.giphy.com/media/3o7bu6KDIpS4OFRP6o/giphy.gif"></img>
+<p style="margin-left:50%">
+  <img src="https://media.giphy.com/media/3o7bu6KDIpS4OFRP6o/giphy.gif"></img>
 </p>
 </br>
 ![Keder-code-hash's GitHub stats](https://github-readme-stats.vercel.app/api?username=keder-code-hash&show_icons=true&theme=radical)
