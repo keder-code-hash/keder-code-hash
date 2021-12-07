@@ -1,11 +1,7 @@
 <img src="https://media.giphy.com/media/3o7bu6KDIpS4OFRP6o/giphy.gif"></img>
 </br>
 
-</br>
-<h1>Hii,I am keder Nath Mallick.</h1>
-<h2>Checkout my medium page
-<a>kedernath-mallick-tint022.medium.com</a>
-</h2>
+</br> 
 ![Keder-code-hash's GitHub stats](https://github-readme-stats.vercel.app/api?username=keder-code-hash&show_icons=true&theme=radical)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keder-code-hash&layout=compact)](https://github.com/keder-code-hash/github-readme-stats)
