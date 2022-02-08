@@ -5,7 +5,7 @@
 </br> 
  
 
-![Keder-code-hash's GitHub stats](https://github-readme-stats.vercel.app/api?username=keder-code-hash&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keder-code-hash&layout=compact)](https://github.com/keder-code-hash/github-readme-stats)
+<!-- ![Keder-code-hash's GitHub stats](https://github-readme-stats.vercel.app/api?username=keder-code-hash&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keder-code-hash&layout=compact)](https://github.com/keder-code-hash/github-readme-stats) -->
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
@@ -26,6 +26,8 @@
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/Keder-code-hash"><img src="https://github-profile-trophy.vercel.app/?username=Keder-code-hash&margin-w=5&theme=radical" alt="Keder-code-hash" /></a> </p>
 
+<br>
+<br>
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=keder-code-hash&label=Profile%20views&color=0e75b6&style=flat" alt="keder-code-hash" /> </p>
