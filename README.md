@@ -13,7 +13,7 @@
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keder-code-hash&theme=github_dark" alt="Keder-code-hash" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keder-code-hash&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="TopCodeBeast" align = "center"/>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=keder-code-hash&show_icons=true&theme=radical" alt="TopCodeBeast" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Keder-code-hash&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Keder-code-hash" align = "center"/></p>
 
  <summary><b>🔥 Github Streaks</b></summary>
