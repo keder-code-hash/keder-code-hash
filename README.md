@@ -15,28 +15,9 @@
 
 
 <summary><b>⚡ Github Stats</b></summary>
-<p align="center">
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=keder-code-hash&show_icons=true&theme=radical" alt="TopCodeBeast" align = "center"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Keder-code-hash&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Keder-code-hash" align = "center"/>
 	
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=keder-code-hash&show_icons=true&theme=radical" alt="TopCodeBeast" align = "center"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Keder-code-hash&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Keder-code-hash" align = "center"/>
-	
-</p>
-
- <summary><b>🔥 Github Streaks</b></summary>
-<p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keder-code-hash&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Keder-code-hash" />
-</p>
-
-<summary>
-	<b>📊 Github Contribution Graph</b>
-</summary>
-<p align="center">
-	<a href="#">
-			<img alt="Keder-code-hash Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Keder-code-hash&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
-	</a>
 </p> 
-
-
  <summary>
 	<b>🏆 Github Achievements</b>
 </summary>
@@ -46,6 +27,10 @@
 	</a>
 </p>
 
+ <summary><b>🔥 Github Streaks</b></summary>
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keder-code-hash&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Keder-code-hash" />
+</p>
 <br>
 <br>
 <br>
