@@ -1,9 +1,4 @@
-<p align="center"> 
-<img src="https://media.giphy.com/media/3o7bu6KDIpS4OFRP6o/giphy.gif"></img>
-</p>
 
-</br> 
-  
   
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
