@@ -1,8 +1,7 @@
 
   
 <h2>ℹ️ &nbsp;Github Info</h2>
-
-[![keder-code-hash/gitartwork](gitartwork.svg)](https://github.com/keder-code-hash/gitartwork)
+ 
 
  <summary>
 	<b>🔎 Github Profile Details</b>
